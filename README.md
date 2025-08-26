@@ -59,4 +59,4 @@ GIKI-RAG-Chatbot/
 
 ## Author
 **Aamina Shabbir**  
-Built with â¤ï¸ for **GIKI** students.
+Built with colab for **GIKI** AI: ML to LLM bootcamp.
