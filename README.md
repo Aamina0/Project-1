@@ -3,11 +3,11 @@ My Bootcamp project
 
 # GIKI Prospectus Q&A Chatbot using Retrieval-Augmented Generation (RAG)
 
-## ðŸ“Œ Project Overview
+##  Project Overview
 This project implements a **Retrieval-Augmented Generation (RAG)**-based chatbot for answering queries related to the **GIKI Prospectus**, fee structure, and academic rules.  
 It allows users to upload documents and ask natural language questions, providing accurate answers retrieved from the uploaded content.
 
-## âœ¨ Features
+## Features
 - Upload up to **5 documents** (PDF/DOCX/TXT)
 - Extract and chunk document content for efficient retrieval
 - Generate embeddings using HuggingFace models
@@ -16,13 +16,13 @@ It allows users to upload documents and ask natural language questions, providin
 - Web-based chatbot interface built with **Streamlit**
 - Optional **English/Urdu language toggle**
 
-## ðŸ› ï¸ Technologies Used
+## Technologies Used
 - **Programming Language:** Python
 - **Libraries:** PyMuPDF, python-docx, FAISS, HuggingFace Transformers, Streamlit
 - **Models:** Flan-T5, GPT alternatives
 - **Deployment:** Google Colab / Local Execution
 
-## ðŸš€ Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -45,7 +45,7 @@ streamlit run app.py
 - Ask any natural language question.
 - Get context-aware, accurate answers.
 
-## ðŸ“Š Project Structure
+## Project Structure
 ```
 GIKI-RAG-Chatbot/
 â”‚â”€â”€ data/                 # Sample GIKI documents
@@ -57,6 +57,6 @@ GIKI-RAG-Chatbot/
 â”‚â”€â”€ notebooks/            # Jupyter notebooks
 ```
 
-## ðŸ‘©â€ðŸ’» Author
+## Author
 **Aamina Shabbir**  
 Built with â¤ï¸ for **GIKI** students.
